@@ -85,5 +85,4 @@ void calculateInterest() {
     std::cout << "Interest earned: " << current_capital - total_deposited << std::endl;
     std::cout << "Overall gain compared to total deposit: " << (current_capital - total_deposited) / (total_deposited / 100) << "%" << std::endl;
     std::cout << "######################\n";
-    std::cout << "Press any key to continue... " << std::endl;
 }
