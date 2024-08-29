@@ -67,7 +67,8 @@ Final capital: 7009.65
 Interest earned: 1009.65
 Overall gain compared to total deposit: 16.83%
 ######################
+```
 
-### License
+## License
 
 This project is licensed under the GNU General Public License v3.0.
