@@ -20,9 +20,7 @@ Simple C++ program to simulate an investment plan conditioned by mortgage amorti
 ### Phase 3: Long-Term Investment Strategy
 **Objective:** Continue investing in all three portfolio components (`safety_cushion`, bonds, and stocks) according to a new proportion.
 - Since there is no more `additional_contribution`, all `average_savings` will be invested entirely.
-- Phase 3 ends once 25 years of simulation are completed.
+- Phase 3 ends once the simulation is completed.
 
 ---
 This program helps simulate a disciplined investment approach while balancing mortgage obligations, ensuring financial security, and optimizing investment growth over time.
-
-
